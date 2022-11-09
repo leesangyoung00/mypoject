@@ -1,8 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
 
- function App()
-    {return
+  const App=() => 
+    {
       <div className="App">
        
       </div>
